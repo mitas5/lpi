@@ -12,7 +12,7 @@ ako jeden zip súbor
 
 ## Odovzdanie cvičenia 1
 
-Podľa návodu na [odovzdávanie riešení](../odovzdavanie.md) odovzdajte
+Podľa návodu na [odovzdávanie riešení](../docs/odovzdavanie.md) odovzdajte
 riešenie prvého cvičenia. Riešenie odovzdajte do vetvy (branch) `cv01`
 v&nbsp;adresári `cv01`.
 
