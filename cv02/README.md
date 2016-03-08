@@ -4,7 +4,7 @@ Cvičenie 2
 Riešenie prvého cvičenia odovzdávajte do **utorka 8.3. 23:59:59**.
 
 Riešenie tohto cvičenia (úloha [Sudoku](#sudoku-3b)) odovzdávajte
-do **utorka 8.3. 23:59:59**.
+do <del>**utorka 8.3. 23:59:59**</del> **štvrtka 10.3. 23:59:59**.
 
 Všetky ukážkové a&nbsp;testovacie súbory k&nbsp;tomuto cvičeniu si môžete stiahnuť
 ako jeden zip súbor
