@@ -32,6 +32,11 @@ Bonusy
 
 * [Bonus 1](bonus01) (parsovanie formuly)
 
+Domáce úlohy
+------------
+
+* [Domáca úloha 1](du01) (výroková logika so Shefferovou spojkou)
+
 Za účelom odovzdávania cvičení získate prístup k súkromnému repozitáru na GitHub-e.
 Používaním tohoto repozitára (t.j. nahrávaním súbrov, napríklad vašich riešení) prejavujte
 svoj súhlas s nasledovnými podmienkami:
@@ -39,9 +44,3 @@ svoj súhlas s nasledovnými podmienkami:
 - Do repozitára budete nahrávať iba materiály, ktoré máte právo zverejniť
   (vzhľadom na autorské práva, iné zákony a pravidlá).
 Tieto podmienky sú súčasťou podmienok na absolvovanie tohoto predmetu.
-
-Domáce úlohy
-------------
-
-* [Domáca úloha 1](du01) (výroková logika so Shefferovou spojkou)
-
