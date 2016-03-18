@@ -36,6 +36,7 @@ Domáce úlohy
 ------------
 
 * [Domáca úloha 1](du01) (výroková logika so Shefferovou spojkou)
+* [Domáca úloha 2](du02) (vyplývanie a ekvivalencia)
 
 Za účelom odovzdávania cvičení získate prístup k súkromnému repozitáru na GitHub-e.
 Používaním tohoto repozitára (t.j. nahrávaním súbrov, napríklad vašich riešení) prejavujte
